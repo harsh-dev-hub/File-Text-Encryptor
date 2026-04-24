@@ -57,7 +57,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/encryptor.git
+git clone https://github.com/harsh-dev-hub/File-Text-Encryptor.git
 cd encryptor
 
 # Create a virtual environment
